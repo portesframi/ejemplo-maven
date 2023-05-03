@@ -8,6 +8,8 @@ public class HashSalt {
 
     private String hash;
     private String salt;
+    private String hash;
+    private String salt;
 
     public HashSalt(String hash, String salt) {
         this.hash = hash;
